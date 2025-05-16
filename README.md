@@ -18,11 +18,11 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 
 ### 🧠 LLM & AI Systems Developer  
 **HouHouLLM** – A modular LLM-VTuber & system orchestrator  
-- Runs local and Gemini-based models in unified CoE architecture  
+- Runs local and Gemini-based models in unified MoE (Mixture of expert) architecture  
 - Custom sparse-activation framework for efficient task switching  
 - Supports real-time Discord, Twitch, YouTube interactions  
 - Handles reminders, DMs, mood-based animations, and knowledge recall  
-- Powered by a 137B expert model, scaling toward 300B unified interactions
+- Powered by a whopping 137B experts model combined, scaling toward 300B unified interactions
 
 ---
 
