@@ -10,8 +10,7 @@ I'm a grade 10 engineer, systems designer, and builder of deeply technical proje
 **SkyLab Hub** – An ultra-detailed, community-driven JSON aircraft dataset  
 - 200+ aircraft with variant-level specs, engine configs, and imagery  
 - Built manually over 6 months  
-- Designed for aerospace modeling, fair exams, enthusiast tools, and education  
-- Lightweight version available; full version supports full aircraft diff
+
 
 
 
@@ -60,9 +59,9 @@ I care about precision. Whether it’s the correct fan diameter of a GE90 engine
 
 ## 🥇 Highlights
 
-- 🔥 1K+ LinkedIn followers from real project drops  
-- ✈️ Aircraft dataset used in mock aviation exams  
-- 🎥 Created HouHou, a VTuber smarter than half the room  
+- 🔥 1K+ LinkedIn followers from my posts on Linkedin
+- ✈️ Aircraft dataset with 200+ plane values
+- 🎥 Created HouHouLLM, a VTuber smarter than half the room  
 
 
 ---
