@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Le Gia Minh (Jia Ming) — aka the grade 10ner
+# 👋 Hi, I'm Le Gia Minh (Jia Ming) 
 
-I'm a grade 10 engineer, systems designer, and builder of deeply technical projects — ranging from high-fidelity aviation datasets to LLM-integrated VTuber systems. I build from the ground up and speak fluent math, code, and obsession.
+I'm a engineer, systems designer, and builder of deeply technical projects — ranging from high-fidelity aviation datasets to LLM-integrated VTuber systems. I build from the ground up and speak fluent math, code, and obsession.
 
 ---
 
@@ -35,24 +35,22 @@ I'm a grade 10 engineer, systems designer, and builder of deeply technical proje
 ---
 
 ## 📚 What Drives Me
-
-I care about precision. Whether it’s the correct fan diameter of a GE90 engine or how long an LLM takes to respond to human tone, I go deep. I don’t flex — I ship. I stay quiet until pushed, and when I do speak, it’s code, visuals, or results.
+I do speak, it’s code, visuals, or results.
 
 ---
 
 ## 🔧 Stack & Tools
 
 - **Languages:** Python, JavaScript, JSON Schema, Bash  
-- **Frameworks:** FastAPI, Next.js, Tailwind, Node.js, TensorFlow (low-level ops), PyTorch  
-- **LLM Infra:** Custom CoE, context weighting w/ decay, task queues, prompt routing  
-- **Setup:** Dual-screen, custom keyboard, VS Code terminal workflow, no distractions  
+- **Frameworks:** FastAPI, Next.js, Tailwind, Node.js, PyTorch, React JS  
+- **LLM Infra:** Custom CoE, context weighting w/ decay, task queues, agent routing  
+
 
 ---
 
 ## 🧭 Ongoing
 
 - Building modular datasets and live-integrated AI tools  
-- Organizing knowledge, not just output  
 - Preparing full-scale docs on LLMs, vector search, memory control, and more
 
 ---
