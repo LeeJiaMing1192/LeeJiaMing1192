@@ -25,36 +25,6 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 - Powered by a whopping 137B experts model combined, scaling toward 300B unified interactions
 
 ---
-
-### 🛠 Infra & UI Hacker  
-- Built full-stack tools like **SkyLab UI** for aircraft comparison  
-- Designed scalable APIs to modularize AI behaviors  
-- Multi-monitor setups, VS Code-first workflows, and zero bloat  
-- Deep understanding of systems, from GPU memory loads to UI pixel alignment
-
----
-
-## 📚 What Drives Me
-I do speak, it’s code, visuals, or results.
-
----
-
-## 🔧 Stack & Tools
-
-- **Languages:** Python, JavaScript, JSON Schema, Bash  
-- **Frameworks:** FastAPI, Next.js, Tailwind, Node.js, PyTorch, React JS  
-- **LLM Infra:** Custom CoE, memory management with LLama Index, task queues, agent routing  
-
-
----
-
-## 🧭 Ongoing
-
-- Building modular datasets and live-integrated AI tools  
-- Preparing full-scale docs on LLMs, vector search, memory control, and more
-
----
-
 ## 🥇 Highlights
 
 - 🔥 1K+ LinkedIn followers from my posts on Linkedin
