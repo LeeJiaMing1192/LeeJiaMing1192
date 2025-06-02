@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Le Gia Minh (Jia Ming) 
+# 👋 Hi, I'm Jia Ming (リー・ジャ・ミン) 
 
 I'm a engineer, systems designer, and builder of deeply technical projects — ranging from high-fidelity aviation datasets to LLM-integrated VTuber systems. I build from the ground up and speak fluent math, code, and obsession.
 
