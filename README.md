@@ -17,7 +17,7 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 ---
 
 ### 🧠 LLM & AI Systems Developer  
-**HouHouLLM** – A modular LLM-VTuber & system orchestrator  
+**SuJi-LLM** – A modular LLM-VTuber & system orchestrator  
 - Runs local and Gemini-based models in unified MoE (Mixture of expert) architecture  
 - Custom sparse-activation framework for efficient task switching  
 - Supports real-time Discord, Twitch, YouTube interactions  
@@ -59,7 +59,7 @@ I do speak, it’s code, visuals, or results.
 
 - 🔥 1K+ LinkedIn followers from my posts on Linkedin
 - ✈️ Aircraft dataset with 200+ plane values
-- 🎥 Created HouHouLLM, a VTuber smarter than half the room  
+- 🎥 Created SuJiLLM, a llm-powered model with Vtube Studio for interactions
 
 
 ---
