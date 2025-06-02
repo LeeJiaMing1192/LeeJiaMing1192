@@ -43,7 +43,7 @@ I do speak, it’s code, visuals, or results.
 
 - **Languages:** Python, JavaScript, JSON Schema, Bash  
 - **Frameworks:** FastAPI, Next.js, Tailwind, Node.js, PyTorch, React JS  
-- **LLM Infra:** Custom CoE, context weighting w/ decay, task queues, agent routing  
+- **LLM Infra:** Custom CoE, memory management with LLama Index, task queues, agent routing  
 
 
 ---
