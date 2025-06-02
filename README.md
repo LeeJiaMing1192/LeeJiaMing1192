@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jia Ming (リー・ジャ・ミン) 
+# 👋 Hi, I'm Lee Jia Ming (リー ジア ミン) 
 
 I'm a engineer, systems designer, and builder of deeply technical projects — ranging from high-fidelity aviation datasets to LLM-integrated VTuber systems. I build from the ground up and speak fluent math, code, and obsession.
 
