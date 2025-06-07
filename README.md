@@ -4,9 +4,9 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-### 🛫 Aircraft Dataset Architect  
+### Aircraft Dataset Architect  
 **SkyLab Hub** – An ultra-detailed, community-driven JSON aircraft dataset  
 - 200+ aircraft with variant-level specs, engine configs, and imagery  
 - Built manually over 6 months  
@@ -16,7 +16,7 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 
 ---
 
-### 🧠 LLM & AI Systems Developer  
+### LLM & AI Systems Developer  
 **SuJi-LLM** – A modular LLM-VTuber & system orchestrator  
 - Runs local and Gemini-based models in unified MoE (Mixture of expert) architecture  
 - Custom sparse-activation framework for efficient task switching  
@@ -25,11 +25,11 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 - Powered by a whopping 137B experts model combined, scaling toward 300B unified interactions
 
 ---
-## 🥇 Highlights
+## Highlights
 
-- 🔥 1K+ LinkedIn followers from my posts on Linkedin
-- ✈️ Aircraft dataset with 200+ plane values
-- 🎥 Created SuJiLLM, a llm-powered model with Vtube Studio for interactions
+- 1K+ LinkedIn followers from my posts on Linkedin
+- Aircraft dataset with 200+ plane values
+- Created SuJiLLM, a llm-powered model with Vtube Studio for interactions
 
 
 ---
