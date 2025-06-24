@@ -22,7 +22,7 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 - Custom sparse-activation framework for efficient task switching  
 - Supports real-time Discord, Twitch, YouTube interactions  
 - Handles reminders, DMs, mood-based animations, and knowledge recall  
-- Powered by a whopping 137B experts model combined, scaling toward 300B unified interactions
+- Powered by a whopping 137B total experts model parameter combined (API and local models)
 
 ---
 ## Highlights
