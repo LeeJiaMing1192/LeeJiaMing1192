@@ -17,12 +17,12 @@ I'm a engineer, systems designer, and builder of deeply technical projects — r
 ---
 
 ### LLM & AI Systems Developer  
-**SuJi-LLM** – A modular LLM-VTuber & system orchestrator  
-- Runs local and Gemini-based models in unified MoE (Mixture of expert) architecture  
+**Luminaryflow** – A modular Mixture of Expert/Agent system orchestrator  
+- Runs local and Gemini-based models in unified MoE (Mixture of expert) high level architecture  
 - Custom sparse-activation framework for efficient task switching  
-- Supports real-time Discord, Twitch, YouTube interactions  
-- Handles reminders, DMs, mood-based animations, and knowledge recall  
-- Powered by a whopping 137B total experts model parameter combined (API and local models)
+- Supports real-time MCP tool and easy to integrate search capabilities
+- Handles reminders, knowledge recall and multiple other domains  
+- Powered by a whopping 331B total experts model parameter combined (API and local models)
 
 ---
 ## Highlights
